@@ -1,0 +1,61 @@
+/*------------images-----------------*/
+
+.img-exp{
+    background-image: url("/img/exp.png");
+}
+
+/*------------padding-----------------*/
+.padding-10{
+    padding:10px;
+}
+
+.padding-bottom-60{
+    padding-bottom:60px;
+}
+
+.padding-bottom-120{
+    padding-bottom:120px;
+}
+
+/*------------Margin-----------------*/
+.margin-10{
+     margin:10px;
+}
+
+.margin-20{
+     margin:20px;
+ }
+
+.margin-25{
+    margin:25px;
+}
+
+.margin-30{
+    margin:30px;
+}
+
+.margin-35{
+    margin:35px;
+}
+
+/*------------Colors-----------------*/
+.bg-light-gray{
+    background:#F5F5F5;
+}
+.bg-gray{
+    background:#EEE;
+}
+
+.bg-dark-gray{
+    background:#E0E0E0;
+}
+
+.shadow-black{
+    box-shadow: -12px 15px 10px #888888;
+}
+
+/*--------------------position----------------*/
+.right-10{
+    /*position:relative;*/
+    left: 10px;
+}
