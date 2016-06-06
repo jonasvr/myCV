@@ -6,20 +6,17 @@
 
         <!-- Modal content-->
         <div class="modal-content">
-            <span class="glyphicon glyphicon-remove right-10 margin-10" data-dismiss="modal"></span>
-
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">opleiding</h4>
+            </div>
             <div class="row">
-
                 <div class="timeline-centered">
-
                     <article class="timeline-entry">
-
                         <div class="timeline-entry-inner">
-
                             <div class="timeline-icon bg-info">
                                 <i class="entypo-feather"></i>
                             </div>
-
                             <div class="timeline-label">
                                 <h2><a href="#">Bacheloropleiding Multimedia Technologie</a> <span>2011–2016</span></h2>
                                 <ul>
@@ -38,18 +35,14 @@
                                 </ul>
                             </div>
                         </div>
-
                     </article>
 
 
                     <article class="timeline-entry">
-
                         <div class="timeline-entry-inner">
-
                             <div class="timeline-icon bg-info">
                                 <i class="entypo-suitcase"></i>
                             </div>
-
                             <div class="timeline-label">
                                 <h2><a href="#">Se-N-Se Public Relations</a> <span>2010–2011</span></h2>
                                 <p>Sint-Ursula Instutuut, Lier (België)<br>
@@ -68,15 +61,11 @@
 
 
                     <article class="timeline-entry">
-
                         <div class="timeline-entry-inner">
-
                             <div class="timeline-icon bg-info">
                                 <i class="entypo-location"></i>
                             </div>
-
                             <div class="timeline-label">
-
                                 <h2><a href="#">3de graad Informatica Beheer</a> <span>2007–2010</span></h2>
                                 <p>Sint-Ursula Instituut, Lier (België)</p>
                                 <ul>
@@ -90,11 +79,9 @@
                                 </ul>
                             </div>
                         </div>
-
                     </article>
                 </div>
             </div>
-
         </div>
 
     </div>

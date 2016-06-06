@@ -4,7 +4,10 @@
 
         <!-- Modal content-->
         <div class="modal-content">
-            <span class="glyphicon glyphicon-remove right-10 margin-10" data-dismiss="modal"></span>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Skills</h4>
+            </div>
             <div class="modal-body">
                 <label for="php">PHP</label>
                 <div id="php" class="progress">

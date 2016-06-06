@@ -19,4 +19,5 @@
     @include('home.modals.modal-exp')
     @include('home.modals.modal-skills')
     @include('home.modals.modal-edu')
+    @include('home.modals.modal-projects')
 @endsection
