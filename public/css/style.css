@@ -63,3 +63,9 @@
     /*position:relative;*/
     left: 10px;
 }
+
+
+.max-height-300{
+    height:300px;
+    max-height:300px;
+}
