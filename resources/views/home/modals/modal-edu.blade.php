@@ -22,11 +22,11 @@
                                 <ul>
                                     <li>
                                         <h6>Eerste jaar</h6>
-                                        <p>	In aanraking komen van technologie en programmeren, webdesign, en aan de ontwikkeling van wiskundig inzicht, audiovisuele producties, 3D, gaming en animatie.</p>
+                                        <p>	In aanraking komen van technologie en programmeren, webdesign,... en aan de ontwikkeling van wiskundig inzicht, audiovisuele producties, 3D, gaming en animatie.</p>
                                     </li>
                                     <li>
                                         <h6>Tweede jaar</h6>
-                                        <p>	Web & UX: nadenken over online oplossingen (gebruiksvriendelijke websites, mobile apps ...) en werkt ze concreet uit.</p>
+                                        <p>	Web & UX: nadenken over online oplossingen (gebruiksvriendelijke websites, mobile apps ...) en ze concreet uit werken.</p>
                                     </li>
                                     <li>
                                         <h6>Derde Jaar</h6>
