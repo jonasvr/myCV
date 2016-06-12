@@ -42,13 +42,13 @@
                                     <h2><a href="#">Communicatieve vaardigheden</a> </h2>
                                     <ul>
                                         <li>
-                                            <h6>horeca</h6>
+                                            <h6>Horeca</h6>
                                             <p>9+ jaar in feestzalen, restaurants, brasseries,..</p>
                                         </li>
                                         <li>
                                             <h6>Evenementen Sector (Ultimate Services):</h6>
-                                            <p> teamleader bij opbouw en afbraak projecten</p>
-                                            <p> barverantwoordlijke op festivals</p>
+                                            <p> Teamleader bij opbouw en afbraak projecten <br>
+                                            Barverantwoordlijke op festivals</p>
                                         </li>
                                         <li>
                                             <h6>Stuvo</h6>
@@ -72,19 +72,19 @@
                                     <ul>
                                         <li>
                                             <h6>Studentenclub (Socio)</h6>
-                                            <p>PR</p>
-                                            <p>Preases</p>
-                                            <p>Sport</p>
+                                            <p>PR <br>
+                                            Preases <br>
+                                            Sport</p>
                                         </li>
                                         <li>
                                             <h6>Studentenraad (Sint-Ursula): </h6>
-                                            <p> Voorzitter</p>
-                                            <p> Tmf stressfactor</p>
+                                            <p> Voorzitter <br>
+                                             Tmf stressfactor</p>
                                         </li>
                                         <li>
                                             <h6>Rabbits Events (Eventenbureau)</h6>
-                                            <p>mede oprichter</p>
-                                            <p>logistiek</p>
+                                            <p>Mede oprichter <br>
+                                            Logistiek</p>
                                         </li>
                                     </ul>
                                 </div>

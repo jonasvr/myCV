@@ -8,7 +8,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">opleiding</h4>
+                <h4 class="modal-title">Opleidingen</h4>
             </div>
             <div class="row">
                 <div class="timeline-centered">
@@ -19,6 +19,7 @@
                             </div>
                             <div class="timeline-label">
                                 <h2><a href="#">Bacheloropleiding Multimedia Technologie</a> <span>2011–2016</span></h2>
+                                <p>Karel de Grote, Hoboken (België)</p>
                                 <ul>
                                     <li>
                                         <h6>Eerste jaar</h6>
@@ -48,6 +49,7 @@
                                 <p>Sint-Ursula Instutuut, Lier (België)<br>
                                     Een praktische opleiding om PR situaties aan te leren pakken.
                                 </p>
+                                <br>
                                 <ul>
                                     <li>Organiseren van een evenement</li>
                                     <li>PR van een bedrijf of event behandelen verzorgen.</li>
@@ -69,7 +71,8 @@
                                 <h2><a href="#">3de graad Informatica Beheer</a> <span>2007–2010</span></h2>
                                 <p>Sint-Ursula Instituut, Lier (België)</p>
                                 <ul>
-                                    <li><h6>Web programmeren:</h6> vb.net - php - html - sql</li>
+                                    <li>Web programmeren: <br> vb.net - php - html - sql</li>
+                                    <br>
                                     <li>Anderen:
                                         <ul>
                                             <li>electriciteit</li>

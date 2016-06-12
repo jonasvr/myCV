@@ -15,8 +15,8 @@
         </div>
         <div class="list-group-item bg-gray margin-tb-10">
             <p class="list-group-item-text text-center">
-                <strong>Download CV</strong>
-                <a href="/download"> download</a>
+                <strong>Curriculum Vitae</strong> <br>
+                <a href="/download">Download</a>
             </p>
         </div>
         <div class="list-group-item bg-light-gray margin-tb-10">

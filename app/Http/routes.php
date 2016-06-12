@@ -22,3 +22,15 @@ Route::get('/script', function () {
 Route::get('/download', function(){
     return response()->download('/download/cv.pdf');
 });
+
+
+Route::get('/thesedays',function(){
+    return Redirect::to('http://www.thesedays.com');
+});
+
+Route::get('/tdAbout',function(){
+    return Redirect::to('http://thesedays.com/about');
+});
+Route::get('/tino',function(){
+    return Redirect::to('www.on-itservices.be');
+});
