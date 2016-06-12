@@ -13,11 +13,15 @@
         @include('home.opleiding')
         @include('home.skills')
         @include('home.projects')
+        @include('home.plus')
+        @include('home.connection')
 
     </div>
 
     @include('home.modals.modal-exp')
-    @include('home.modals.modal-skills')
+    @include('home.modals.skills2')
     @include('home.modals.modal-edu')
     @include('home.modals.modal-projects')
+    @include('home.modals.modal-plus')
+    @include('home.modals.modal-conn')
 @endsection

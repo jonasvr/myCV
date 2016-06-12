@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/script', function () {
     return view('script');
 });
+
+Route::get('/download', function(){
+    return response()->download('/download/cv.pdf');
+});
